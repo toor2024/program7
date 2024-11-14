@@ -1,14 +1,25 @@
 #include "Song.h"
+#include <sstream>
 
-Song::Song(char type, std::string title, std::string keyName, int rating, std::string genre, int length, int yearReleased, bool top40)
-    : Media(type, title, keyName, rating, genre, length, yearReleased), top40(top40) {}
+Song* Song::createFromLine(const std::string& line) {
+    std::stringstream ss(line);
+    std::string title, keyName, genre;
+    int rating, length, year;
+    bool top40;
 
-bool Song::getTop40() const {
-    return top40;
-}
+    // Parse the fields from the line
+    getline(ss, title, ',');
+    getline(ss, keyName, ',');
+    ss >> rating;
+    ss.ignore();  // Skip comma
+    getline(ss, genre, ',');
+    ss >> length;
+    ss.ignore(); // Skip comma
+    ss >> year;
+    ss.ignore(); // Skip comma
+    ss >> top40;
 
-void Song::setTop40(bool top) {
-    top40 = top;
+    return new Song('S', title, keyName, rating, genre, length, year, top40);
 }
 
 void Song::print(std::ostream& out) const {
