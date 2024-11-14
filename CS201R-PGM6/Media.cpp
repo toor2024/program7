@@ -1,42 +1,64 @@
-#ifndef MEDIA_H
-#define MEDIA_H
-
-#include <iostream>
-#include <vector>
 #include <string>
+#include <iostream>
+#include <sstream>
+#include "Media.h"
+#include "Movie.h"
+#include "Book.h"
+#include "Song.h"
+#include "Functions.h" // For trim and checkDigits
 
 using namespace std;
 
-class Media {
-protected:
-    char type;          // Movie, Book, or Song
-    string title;
-    string keyName;
-    int rating;
-    string genre;
-    int length;
-    int yearReleased;
+// Parameterized constructor
+Media::Media(char type, string title, string keyName, int rating, string genre, int length, int yearReleased)
+    : type(type), title(title), keyName(keyName), rating(rating), genre(genre), length(length), yearReleased(yearReleased) {
+    setRating(rating);
+    setYearReleased(yearReleased);
+}
 
-public:
-    // Constructor
-    Media(char t, string tit, string kn, int r, string g, int l, int y) 
-        : type(t), title(tit), keyName(kn), rating(r), genre(g), length(l), yearReleased(y) {}
+// Setters
+void Media::setRating(int r) {
+    if (r >= 1 && r <= 10) {
+        rating = r;
+    }
+}
 
-    // Pure virtual function to make Media an abstract class
-    virtual void print(ostream& os) const = 0;
+void Media::setYearReleased(int yr) {
+    if (yr >= 1920 && yr <= 2025) {
+        yearReleased = yr;
+    }
+}
 
-    // Getters and setters
-    char getType() const { return type; }
-    string getTitle() const { return title; }
-    string getKeyName() const { return keyName; }
-    int getRating() const { return rating; }
-    string getGenre() const { return genre; }
-    int getLength() const { return length; }
-    int getYearReleased() const { return yearReleased; }
+// Getters
+char Media::getType() const {
+    return type;
+}
 
-    // Setters
-    void setRating(int r) { rating = r; }
-    void setYearReleased(int year) { yearReleased = year; }
-};
+std::string Media::getTitle() const {
+    return title;
+}
 
-#endif // MEDIA_H
+std::string Media::getKeyName() const {
+    return keyName;
+}
+
+int Media::getRating() const {
+    return rating;
+}
+
+std::string Media::getGenre() const {
+    return genre;
+}
+
+int Media::getLength() const {
+    return length;
+}
+
+int Media::getYearReleased() const {
+    return yearReleased;
+}
+
+// Function to print Media details (should be overridden in derived classes)
+void Media::print(std::ostream& out) const {
+    out << type << ", " << title << ", " << keyName << ", " << rating << ", " << genre << ", " << length << ", " << yearReleased << endl;
+}
