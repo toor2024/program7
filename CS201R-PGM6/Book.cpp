@@ -1,16 +1,27 @@
 #include "Book.h"
+#include <sstream>
 
-Book::Book(char type, std::string title, std::string keyName, int rating, std::string genre, int length, int yearReleased, int weeksNYT)
-    : Media(type, title, keyName, rating, genre, length, yearReleased), weeksNYT(weeksNYT) {}
+Book* Book::createFromLine(const std::string& line) {
+    std::stringstream ss(line);
+    std::string title, keyName, genre;
+    int rating, length, year, weeksNYT;
 
-int Book::getWeeks() const {
-    return weeksNYT;
-}
+    // Parse the fields from the line
+    getline(ss, title, ',');
+    getline(ss, keyName, ',');
+    ss >> rating;
+    ss.ignore();  // Skip comma
+    getline(ss, genre, ',');
+    ss >> length;
+    ss.ignore(); // Skip comma
+    ss >> year;
+    ss.ignore(); // Skip comma
+    ss >> weeksNYT;
 
-void Book::setWeeks(int weeks) {
-    weeksNYT = weeks;
+    return new Book(title, keyName, rating, genre, length, year, weeksNYT);
 }
 
 void Book::print(std::ostream& out) const {
-    out << "Book: " << title << " by " << keyName << " - Weeks on NYT: " << weeksNYT << "\n";
+    out << "Book: " << title << " by " << keyName << " (" << yearReleased << ") - Rating: " << rating << "/10\n";
+    out << "Weeks on NYT: " << weeksNYT << "\n";
 }
