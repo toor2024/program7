@@ -12,19 +12,70 @@
 
 using namespace std;
 
-// Utility function to check if a string consists only of digits
+// prompted chatgpt to create a utility function to check if a string consists only of digits
 bool checkDigits(const string& str1) {
     return !str1.empty() && str1.find_first_not_of("0123456789") == string::npos;
 }
 
-// Utility function to trim whitespace from a string
+// prompted chatgpt to create a uility function to trim whitespace from a string
 string trim(const string& str) {
     size_t first = str.find_first_not_of(' ');
     size_t last = str.find_last_not_of(' ');
     return (first == string::npos || last == string::npos) ? "" : str.substr(first, last - first + 1);
 }
 
-// Function to read the media list from file and populate the vector
+// prompted chatgpt to create a function to list stars in a movie
+void listStars(ostream& outFile, ostream& errFile, const vector<Media*>& myLib, const string& starName) {
+    bool found = false;
+    for (const auto& media : myLib) {
+        if (media->getType() == 'M') {
+            Movie* movie = dynamic_cast<Movie*>(media);
+            if (movie) {
+                const vector<string>& stars = movie->getStars();
+                if (find(stars.begin(), stars.end(), starName) != stars.end()) {
+                    movie->print(outFile);
+                    found = true;
+                }
+            }
+        }
+    }
+    if (!found) {
+        errFile << "ERROR: Star not found: " << starName << endl;
+    }
+}
+
+// prompted chatgpt to create a function to list movies containing the specified string
+void listMoviesByString(ostream& outFile, ostream& errFile, const vector<Media*>& myLib, const string& searchStr) {
+    bool found = false;
+    for (const auto& media : myLib) {
+        if (media->getType() == 'M') {
+            Movie* movie = dynamic_cast<Movie*>(media);
+            if (movie && movie->getTitle().find(searchStr) != string::npos) {
+                movie->print(outFile);
+                found = true;
+            }
+        }
+    }
+    if (!found) {
+        errFile << "ERROR: No movies found with string: " << searchStr << endl;
+    }
+}
+
+// prompted chatgpt to create a function to list all media where name matches a given string
+void listMediaByName(ostream& outFile, ostream& errFile, const vector<Media*>& myLib, const string& name) {
+    bool found = false;
+    for (const auto& media : myLib) {
+        if (media->getTitle() == name) {
+            media->print(outFile);
+            found = true;
+        }
+    }
+    if (!found) {
+        errFile << "ERROR: No media found with name: " << name << endl;
+    }
+}
+
+// prompted chatgpt to create a function to read the media list from file and populate the vector
 void readMediaList(istream& inFile, ostream& errFile, vector<Media*>& mediaLib) {
     string line;
     while (getline(inFile, line)) {
@@ -52,14 +103,14 @@ void readMediaList(istream& inFile, ostream& errFile, vector<Media*>& mediaLib) 
     }
 }
 
-// Function to print all media items
+// prompted chatgpt to create a function to print all media items
 void printAllMedia(ostream& outFile, const vector<Media*>& mediaLib) {
     for (const auto& media : mediaLib) {
         media->print(outFile);
     }
 }
 
-// Function to print media items by type
+// prompted chatgpt to create a function to print media items by type
 void printMediaByType(ostream& outFile, const vector<Media*>& mediaLib, char type) {
     for (const auto& media : mediaLib) {
         if (media->getType() == type) {
@@ -68,7 +119,7 @@ void printMediaByType(ostream& outFile, const vector<Media*>& mediaLib, char typ
     }
 }
 
-// Function to print totals of each media type
+// prompted chatgpt to create a function to print totals of each media type
 void printTotals(ostream& outFile, const vector<Media*>& mediaLib) {
     int totalMovies = 0, totalBooks = 0, totalSongs = 0;
 
@@ -91,7 +142,7 @@ void printTotals(ostream& outFile, const vector<Media*>& mediaLib) {
     outFile << totalItems << "\tItems" << endl;
 }
 
-// Updated function to process commands from the command file
+// prompted chatgpt to create a function to process commands from the command file
 void processCommands(istream& inCommands, ostream& outFile, ostream& outErr, vector<Media*>& myLib) {
     string commandRecord;
     bool initialPrinted = false;
@@ -121,6 +172,15 @@ void processCommands(istream& inCommands, ostream& outFile, ostream& outErr, vec
                 break;
             case 'S':
                 if (!argument.empty()) printMediaByType(outFile, myLib, 'S');
+                break;
+            case 'L':
+                listStars(outFile, outErr, myLib, argument);
+                break;
+            case 'F':
+                listMoviesByString(outFile, outErr, myLib, argument);
+                break;
+            case 'K':
+                listMediaByName(outFile, outErr, myLib, argument);
                 break;
             case 'N': {
                 // Handle adding new media item based on the type specified in the argument
