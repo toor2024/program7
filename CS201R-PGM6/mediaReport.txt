@@ -1,0 +1,507 @@
+Initial Totals:
+YOUR MEDIA LIBRARY
+#	TYPE
+19	Movies
+17	Books
+29	Songs
+65	Items
+Movie: To Kill a Mockingbird by Horton Foote (1962) - Rating: 5/10
+Movie: Ferris Bueller's Day Off by John Hughes (1986) - Rating: 7/10
+Movie: Rocky by Sylvester Stallone (1976) - Rating: 7/10
+Movie: Jaws by Steven Spielberg (1975) - Rating: 5/10
+Movie: Daughters of the Dust by Julie Dash (1991) - Rating: 8/10
+Movie: Raiders of the Lost Ark by George Lucas (1981) - Rating: 6/10
+Movie: Star Wars IV by George Lucas (1977) - Rating: 6/10
+Movie: Mr. Holland's Opus by Stephen Herek (1995) - Rating: 8/10
+Book: To Kill a Mockingbird by Harper Lee - Weeks on NYT: 5
+Book: Animal Farm by  George Orwell - Weeks on NYT: 5
+Book: The Great Gatsby by F.Scott Fitzgerald - Weeks on NYT: 5
+Book: The Catcher in the Rye by JD Salinger - Weeks on NYT: 5
+Book: Lord of the Flies by William Golding - Weeks on NYT: 5
+Book: Of Mice and Men by John Steinbeck - Weeks on NYT: 5
+Movie: Blade Runner 2049 by Denis Villeneuve (2017) - Rating: 9/10
+Movie: Jurassic Park by Steven Spielberg (1993) - Rating: 8/10
+Movie: Dune by Denise Villeneuve (2021) - Rating: 7/10
+Movie: Fight Club by David Fincher (1999) - Rating: 10/10
+Movie: Percy Jackson and the Lightning Thief by Chris Columbus (2010) - Rating: 2/10
+Movie: The Grand Budapest Hotel by Wes Anderson (2014) - Rating: 9/10
+Movie: Superman by Richard Donner (1978) - Rating: 8/10
+Movie: Spirited Away by Hayao Miyazaki (2002) - Rating: 8/10
+Movie: Gone Girl by David Fincher (2014) - Rating: 10/10
+Movie: Moonlight by Barry Jenkins (2016) - Rating: 10/10
+Movie: The Wolf of Wallstreet by Martin Scorsese (2013) - Rating: 10/10
+Book: House of Leaves by Mark Z. Danielewski - Weeks on NYT: 5
+Book: I Can Teach You to Be Rich by Ramit Sethi - Weeks on NYT: 5
+Book: Neuromancer by William Gibson - Weeks on NYT: 5
+Book: Percy Jackson and the Last Olympian by Rick Riordan - Weeks on NYT: 5
+Book: Six of Crows by Leigh Bardugo - Weeks on NYT: 5
+Book: The Alchemist by Paulo Coelho - Weeks on NYT: 5
+Book: The Goldfinch by Donna Tartt - Weeks on NYT: 5
+Book: The Hunger Games by Suzanne Collins - Weeks on NYT: 5
+Book: The Music of Erich Zann by H.P. Lovecraft - Weeks on NYT: 5
+Book: Watchmen by Alan Moore - Weeks on NYT: 5
+Book: Way of kings by Brandon Sanderson - Weeks on NYT: 5
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Movie: To Kill a Mockingbird by Horton Foote (1962) - Rating: 5/10
+Movie: Ferris Bueller's Day Off by John Hughes (1986) - Rating: 7/10
+Movie: Rocky by Sylvester Stallone (1976) - Rating: 7/10
+Movie: Jaws by Steven Spielberg (1975) - Rating: 5/10
+Movie: Daughters of the Dust by Julie Dash (1991) - Rating: 8/10
+Movie: Raiders of the Lost Ark by George Lucas (1981) - Rating: 6/10
+Movie: Star Wars IV by George Lucas (1977) - Rating: 6/10
+Movie: Mr. Holland's Opus by Stephen Herek (1995) - Rating: 8/10
+Movie: Blade Runner 2049 by Denis Villeneuve (2017) - Rating: 9/10
+Movie: Jurassic Park by Steven Spielberg (1993) - Rating: 8/10
+Movie: Dune by Denise Villeneuve (2021) - Rating: 7/10
+Movie: Fight Club by David Fincher (1999) - Rating: 10/10
+Movie: Percy Jackson and the Lightning Thief by Chris Columbus (2010) - Rating: 2/10
+Movie: The Grand Budapest Hotel by Wes Anderson (2014) - Rating: 9/10
+Movie: Superman by Richard Donner (1978) - Rating: 8/10
+Movie: Spirited Away by Hayao Miyazaki (2002) - Rating: 8/10
+Movie: Gone Girl by David Fincher (2014) - Rating: 10/10
+Movie: Moonlight by Barry Jenkins (2016) - Rating: 10/10
+Movie: The Wolf of Wallstreet by Martin Scorsese (2013) - Rating: 10/10
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Book: To Kill a Mockingbird by Harper Lee - Weeks on NYT: 5
+Book: Animal Farm by  George Orwell - Weeks on NYT: 5
+Book: The Great Gatsby by F.Scott Fitzgerald - Weeks on NYT: 5
+Book: The Catcher in the Rye by JD Salinger - Weeks on NYT: 5
+Book: Lord of the Flies by William Golding - Weeks on NYT: 5
+Book: Of Mice and Men by John Steinbeck - Weeks on NYT: 5
+Book: House of Leaves by Mark Z. Danielewski - Weeks on NYT: 5
+Book: I Can Teach You to Be Rich by Ramit Sethi - Weeks on NYT: 5
+Book: Neuromancer by William Gibson - Weeks on NYT: 5
+Book: Percy Jackson and the Last Olympian by Rick Riordan - Weeks on NYT: 5
+Book: Six of Crows by Leigh Bardugo - Weeks on NYT: 5
+Book: The Alchemist by Paulo Coelho - Weeks on NYT: 5
+Book: The Goldfinch by Donna Tartt - Weeks on NYT: 5
+Book: The Hunger Games by Suzanne Collins - Weeks on NYT: 5
+Book: The Music of Erich Zann by H.P. Lovecraft - Weeks on NYT: 5
+Book: Watchmen by Alan Moore - Weeks on NYT: 5
+Book: Way of kings by Brandon Sanderson - Weeks on NYT: 5
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Movie: To Kill a Mockingbird by Horton Foote (1962) - Rating: 5/10
+Movie: Ferris Bueller's Day Off by John Hughes (1986) - Rating: 7/10
+Movie: Rocky by Sylvester Stallone (1976) - Rating: 7/10
+Movie: Jaws by Steven Spielberg (1975) - Rating: 5/10
+Movie: Daughters of the Dust by Julie Dash (1991) - Rating: 8/10
+Movie: Raiders of the Lost Ark by George Lucas (1981) - Rating: 6/10
+Movie: Star Wars IV by George Lucas (1977) - Rating: 6/10
+Movie: Mr. Holland's Opus by Stephen Herek (1995) - Rating: 8/10
+Book: To Kill a Mockingbird by Harper Lee - Weeks on NYT: 5
+Book: Animal Farm by  George Orwell - Weeks on NYT: 5
+Book: The Great Gatsby by F.Scott Fitzgerald - Weeks on NYT: 5
+Book: The Catcher in the Rye by JD Salinger - Weeks on NYT: 5
+Book: Lord of the Flies by William Golding - Weeks on NYT: 5
+Book: Of Mice and Men by John Steinbeck - Weeks on NYT: 5
+Movie: Blade Runner 2049 by Denis Villeneuve (2017) - Rating: 9/10
+Movie: Jurassic Park by Steven Spielberg (1993) - Rating: 8/10
+Movie: Dune by Denise Villeneuve (2021) - Rating: 7/10
+Movie: Fight Club by David Fincher (1999) - Rating: 10/10
+Movie: Percy Jackson and the Lightning Thief by Chris Columbus (2010) - Rating: 2/10
+Movie: The Grand Budapest Hotel by Wes Anderson (2014) - Rating: 9/10
+Movie: Superman by Richard Donner (1978) - Rating: 8/10
+Movie: Spirited Away by Hayao Miyazaki (2002) - Rating: 8/10
+Movie: Gone Girl by David Fincher (2014) - Rating: 10/10
+Movie: Moonlight by Barry Jenkins (2016) - Rating: 10/10
+Movie: The Wolf of Wallstreet by Martin Scorsese (2013) - Rating: 10/10
+Book: House of Leaves by Mark Z. Danielewski - Weeks on NYT: 5
+Book: I Can Teach You to Be Rich by Ramit Sethi - Weeks on NYT: 5
+Book: Neuromancer by William Gibson - Weeks on NYT: 5
+Book: Percy Jackson and the Last Olympian by Rick Riordan - Weeks on NYT: 5
+Book: Six of Crows by Leigh Bardugo - Weeks on NYT: 5
+Book: The Alchemist by Paulo Coelho - Weeks on NYT: 5
+Book: The Goldfinch by Donna Tartt - Weeks on NYT: 5
+Book: The Hunger Games by Suzanne Collins - Weeks on NYT: 5
+Book: The Music of Erich Zann by H.P. Lovecraft - Weeks on NYT: 5
+Book: Watchmen by Alan Moore - Weeks on NYT: 5
+Book: Way of kings by Brandon Sanderson - Weeks on NYT: 5
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Song: Africa by Toto - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Bohemian Rhapsody by Queen - Top 40: Yes
+Song: Yellow Submarine by Beatles - Top 40: Yes
+Book: To Kill a Mockingbird by Harper Lee - Weeks on NYT: 5
+Book: Animal Farm by  George Orwell - Weeks on NYT: 5
+Book: The Great Gatsby by F.Scott Fitzgerald - Weeks on NYT: 5
+Book: The Catcher in the Rye by JD Salinger - Weeks on NYT: 5
+Book: Lord of the Flies by William Golding - Weeks on NYT: 5
+Book: Of Mice and Men by John Steinbeck - Weeks on NYT: 5
+Book: House of Leaves by Mark Z. Danielewski - Weeks on NYT: 5
+Book: I Can Teach You to Be Rich by Ramit Sethi - Weeks on NYT: 5
+Book: Neuromancer by William Gibson - Weeks on NYT: 5
+Book: Percy Jackson and the Last Olympian by Rick Riordan - Weeks on NYT: 5
+Book: Six of Crows by Leigh Bardugo - Weeks on NYT: 5
+Book: The Alchemist by Paulo Coelho - Weeks on NYT: 5
+Book: The Goldfinch by Donna Tartt - Weeks on NYT: 5
+Book: The Hunger Games by Suzanne Collins - Weeks on NYT: 5
+Book: The Music of Erich Zann by H.P. Lovecraft - Weeks on NYT: 5
+Book: Watchmen by Alan Moore - Weeks on NYT: 5
+Book: Way of kings by Brandon Sanderson - Weeks on NYT: 5
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Lessons in Chemistry by Bonnie Garmus - Weeks on NYT: 5
+Book: To Kill a Mockingbird by Harper Lee - Weeks on NYT: 5
+Book: Animal Farm by  George Orwell - Weeks on NYT: 5
+Book: The Great Gatsby by F.Scott Fitzgerald - Weeks on NYT: 5
+Book: The Catcher in the Rye by JD Salinger - Weeks on NYT: 5
+Book: Lord of the Flies by William Golding - Weeks on NYT: 5
+Book: Of Mice and Men by John Steinbeck - Weeks on NYT: 5
+Book: House of Leaves by Mark Z. Danielewski - Weeks on NYT: 5
+Book: I Can Teach You to Be Rich by Ramit Sethi - Weeks on NYT: 5
+Book: Neuromancer by William Gibson - Weeks on NYT: 5
+Book: Percy Jackson and the Last Olympian by Rick Riordan - Weeks on NYT: 5
+Book: Six of Crows by Leigh Bardugo - Weeks on NYT: 5
+Book: The Alchemist by Paulo Coelho - Weeks on NYT: 5
+Book: The Goldfinch by Donna Tartt - Weeks on NYT: 5
+Book: The Hunger Games by Suzanne Collins - Weeks on NYT: 5
+Book: The Music of Erich Zann by H.P. Lovecraft - Weeks on NYT: 5
+Book: Watchmen by Alan Moore - Weeks on NYT: 5
+Book: Way of kings by Brandon Sanderson - Weeks on NYT: 5
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Lessons in Chemistry by Bonnie Garmus - Weeks on NYT: 5
+Book: To Kill a Mockingbird by Harper Lee - Weeks on NYT: 5
+Book: Animal Farm by  George Orwell - Weeks on NYT: 5
+Book: The Great Gatsby by F.Scott Fitzgerald - Weeks on NYT: 5
+Book: The Catcher in the Rye by JD Salinger - Weeks on NYT: 5
+Book: Lord of the Flies by William Golding - Weeks on NYT: 5
+Book: Of Mice and Men by John Steinbeck - Weeks on NYT: 5
+Book: House of Leaves by Mark Z. Danielewski - Weeks on NYT: 5
+Book: I Can Teach You to Be Rich by Ramit Sethi - Weeks on NYT: 5
+Book: Neuromancer by William Gibson - Weeks on NYT: 5
+Book: Percy Jackson and the Last Olympian by Rick Riordan - Weeks on NYT: 5
+Book: Six of Crows by Leigh Bardugo - Weeks on NYT: 5
+Book: The Alchemist by Paulo Coelho - Weeks on NYT: 5
+Book: The Goldfinch by Donna Tartt - Weeks on NYT: 5
+Book: The Hunger Games by Suzanne Collins - Weeks on NYT: 5
+Book: The Music of Erich Zann by H.P. Lovecraft - Weeks on NYT: 5
+Book: Watchmen by Alan Moore - Weeks on NYT: 5
+Book: Way of kings by Brandon Sanderson - Weeks on NYT: 5
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Lessons in Chemistry by Bonnie Garmus - Weeks on NYT: 5
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Song: Africa by Toto - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Bohemian Rhapsody by Queen - Top 40: Yes
+Song: Yellow Submarine by Beatles - Top 40: Yes
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Song: Africa by Toto - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Bohemian Rhapsody by Queen - Top 40: Yes
+Song: Yellow Submarine by Beatles - Top 40: Yes
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Song: Africa by Toto - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Bohemian Rhapsody by Queen - Top 40: Yes
+Song: Yellow Submarine by Beatles - Top 40: Yes
+Movie: To Kill a Mockingbird by Horton Foote (1962) - Rating: 5/10
+Movie: Ferris Bueller's Day Off by John Hughes (1986) - Rating: 7/10
+Movie: Rocky by Sylvester Stallone (1976) - Rating: 7/10
+Movie: Jaws by Steven Spielberg (1975) - Rating: 5/10
+Movie: Daughters of the Dust by Julie Dash (1991) - Rating: 8/10
+Movie: Raiders of the Lost Ark by George Lucas (1981) - Rating: 6/10
+Movie: Star Wars IV by George Lucas (1977) - Rating: 6/10
+Movie: Mr. Holland's Opus by Stephen Herek (1995) - Rating: 8/10
+Book: To Kill a Mockingbird by Harper Lee - Weeks on NYT: 5
+Book: Animal Farm by  George Orwell - Weeks on NYT: 5
+Book: The Great Gatsby by F.Scott Fitzgerald - Weeks on NYT: 5
+Book: The Catcher in the Rye by JD Salinger - Weeks on NYT: 5
+Book: Lord of the Flies by William Golding - Weeks on NYT: 5
+Book: Of Mice and Men by John Steinbeck - Weeks on NYT: 5
+Movie: Blade Runner 2049 by Denis Villeneuve (2017) - Rating: 9/10
+Movie: Jurassic Park by Steven Spielberg (1993) - Rating: 8/10
+Movie: Dune by Denise Villeneuve (2021) - Rating: 7/10
+Movie: Fight Club by David Fincher (1999) - Rating: 10/10
+Movie: Percy Jackson and the Lightning Thief by Chris Columbus (2010) - Rating: 2/10
+Movie: The Grand Budapest Hotel by Wes Anderson (2014) - Rating: 9/10
+Movie: Superman by Richard Donner (1978) - Rating: 8/10
+Movie: Spirited Away by Hayao Miyazaki (2002) - Rating: 8/10
+Movie: Gone Girl by David Fincher (2014) - Rating: 10/10
+Movie: Moonlight by Barry Jenkins (2016) - Rating: 10/10
+Movie: The Wolf of Wallstreet by Martin Scorsese (2013) - Rating: 10/10
+Book: House of Leaves by Mark Z. Danielewski - Weeks on NYT: 5
+Book: I Can Teach You to Be Rich by Ramit Sethi - Weeks on NYT: 5
+Book: Neuromancer by William Gibson - Weeks on NYT: 5
+Book: Percy Jackson and the Last Olympian by Rick Riordan - Weeks on NYT: 5
+Book: Six of Crows by Leigh Bardugo - Weeks on NYT: 5
+Book: The Alchemist by Paulo Coelho - Weeks on NYT: 5
+Book: The Goldfinch by Donna Tartt - Weeks on NYT: 5
+Book: The Hunger Games by Suzanne Collins - Weeks on NYT: 5
+Book: The Music of Erich Zann by H.P. Lovecraft - Weeks on NYT: 5
+Book: Watchmen by Alan Moore - Weeks on NYT: 5
+Book: Way of kings by Brandon Sanderson - Weeks on NYT: 5
+Song: All Too Well by Taylor Swift - Top 40: Yes
+Song: Baba Yetu by Christopher Tin - Top 40: Yes
+Song: Ball if I want to by Da Baby - Top 40: Yes
+Song: Call out my name by The Weeknd - Top 40: Yes
+Song: Compass by The Neighbourhood - Top 40: Yes
+Song: Easy on me by Adele - Top 40: Yes
+Song: Figures by Jessie Reyez - Top 40: Yes
+Song: First Love / Late Spring by Mitski - Top 40: Yes
+Song: Frozen by Sabrina Lauduio - Top 40: Yes
+Song: Garden Grove by Sublime - Top 40: Yes
+Song: Har dil ki ava by Atif aslam - Top 40: Yes
+Song: Holy Ghost by Borns - Top 40: Yes
+Song: kal ho na ho by singh - Top 40: Yes
+Song: Monks by Frank Ocean - Top 40: Yes
+Song: More Than a Woman by Bee Gees - Top 40: Yes
+Song: nasha ha by Ali zafar - Top 40: Yes
+Song: Out Tha Mud by Kevin Gates - Top 40: Yes
+Song: Phali dafa by Atif aslam - Top 40: Yes
+Song: Sea Dragon by Covet - Top 40: Yes
+Song: Slacker by Tech N9ne - Top 40: Yes
+Song: Something by Snarky Puppy ft.Lahlah Hathaway - Top 40: Yes
+Song: Stayin' Alive by Bee Gees - Top 40: Yes
+Song: Sweet Caroline by Neil Diamond - Top 40: Yes
+Song: Sweet Life by Frank Ocean - Top 40: Yes
+Song: Thank u - next by Ariana Grande - Top 40: Yes
+Song: The Mountain Top by Lena Raine - Top 40: Yes
+Song: Tik Tok by Kesha - Top 40: Yes
+Song: Tranquility Base Hotel & Casino by Arctic Monkeys - Top 40: Yes
+Song: Wake Up by Eden - Top 40: Yes
+Movie: Hidden Figures by Theodore Melfi (2016) - Rating: 9/10
+Song: Africa by Toto - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Strawberry Fields Forever by Beatles - Top 40: Yes
+Song: Bohemian Rhapsody by Queen - Top 40: Yes
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Close Encounters by Steven Spielberg - Weeks on NYT: 5
+Book: Lessons in Chemistry by Bonnie Garmus - Weeks on NYT: 5
+Song: Yellow Submarine by Beatles - Top 40: Yes
+YOUR MEDIA LIBRARY
+#	TYPE
+20	Movies
+20	Books
+34	Songs
+74	Items

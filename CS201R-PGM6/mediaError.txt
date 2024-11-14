@@ -1,0 +1,36 @@
+ERROR: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae,,
+Invalid stoi argument: One or more fields are not valid numbers.
+
+ERROR: B,Hamlet,William Shakespeare,4,Tragedy,214,1600,,,,
+Invalid value entered for year.
+
+ERROR: B,Fahrenheit 451,Ray Bradbury,Science Fiction,256,1953,,,,,
+Invalid stoi argument: One or more fields are not valid numbers.
+
+ERROR: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis,,
+Invalid entry for type or rating.
+
+ERROR: B,Crime and Punishment,Fyodor Dostoevsky,7,Crime Fiction,576,1866,,,,
+Invalid value entered for year.
+
+ERROR: S,Blinding Lights,the Weeknd,10,9,Synthwave,2020,,,,
+Invalid stoi argument: One or more fields are not valid numbers.
+
+ERROR: Q,,,,,,,,,,
+Invalid stoi argument: One or more fields are not valid numbers.
+
+ERROR: M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+Invalid entry for type or rating.
+
+ERROR: S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+Invalid stoi argument: One or more fields are not valid numbers.
+
+ERROR: S,Strawberry Fields Forever,Beatles,9,pop,ERROR,1967,0
+Invalid stoi argument: One or more fields are not valid numbers.
+
+ERROR: B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+Invalid stoi argument: One or more fields are not valid numbers.
+
+ERROR: B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2026,0
+Invalid value entered for year.
+
